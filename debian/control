@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: EBGaramond.h
-Description: EBGaramond font for DisplayCore
+Description: EBGaramond
