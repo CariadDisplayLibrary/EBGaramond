@@ -1,7 +1,7 @@
 #ifndef _EBGARAMOND_H
 #define _EBGARAMOND_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t EBGaramond10[];
